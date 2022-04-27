@@ -1,0 +1,18 @@
+    body {
+    /* ^^ Can change to other parts of html file, body, header,
+     main, footer etc. */
+    background-color: white;
+}
+
+
+z{ 
+    color: blue;
+}
+
+/*By labeling your <p> with different nubmers or letter you can 
+specify what color you want what text to be*/
+
+p{
+   color: red;
+}
+/* This is a comment*/
