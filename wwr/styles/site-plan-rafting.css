@@ -9,7 +9,7 @@ Fonts are separated by a | */
   --primary-color: #7DC4D5  ;
   --secondary-color: #041163 ;
   --accent1-color: #778C99;
-  --accent2-color: white;
+  --accent2-color: white; 
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Righteous";
