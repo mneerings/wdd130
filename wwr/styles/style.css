@@ -9,6 +9,10 @@ color: #041163;
 text-decoration: none;
 }    
 
+#hero-img {
+    width: 100%;
+}
+
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
 }
