@@ -1,0 +1,42 @@
+.Top {
+    margin: 0 150px;
+    text-align: center;
+    font-weight: bold;
+    background-color: red;
+    padding: 35px;
+    font-size: x-large;
+}
+
+.Middle {
+    margin: 0 100px;
+    text-align: center;
+    font-weight: bold;
+    background-color: blue;
+    padding: 55px;
+    font-size: x-large;
+}
+
+.Bottom {
+    margin: 0 40px;
+    text-align: center;
+    font-weight: bold;
+    background-color: green;
+    padding: 70px;
+    font-size: x-large;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 0 0 40px 0px;
+}
+
+.yellow2 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+}
