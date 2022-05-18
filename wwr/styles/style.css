@@ -1,3 +1,11 @@
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Righteous&display=swap');
+
+
 #content{
 max-width: 1600px;
 margin: 0 auto;
@@ -7,6 +15,7 @@ nav a {
 text-align: center;
 color: #041163;
 text-decoration: none;
+padding: 35px;
 }    
 
 #hero-img {
@@ -31,6 +40,9 @@ main section {
 
 body {
     background-color: white;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }   
 
 header {
@@ -46,12 +58,18 @@ nav a:hover {
     background-color: white;
     color: #041163;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
 }
 
 .join {
     background-color: #778C99;
     color: #041163;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
 }
 .book:hover, .join:hover {
     background-color: #7DC4D5;
@@ -62,20 +80,31 @@ nav a:hover {
     background-color: #041163;
 }
 
+
 .msg {
     background-color: #778C99;
+    font-family: 'merriweather';
+    line-height: 1.5em;
+    padding: 35px;
+    margin-top: 200px;
 }
 
 .msg h2 {
     color: #041163;
+    font-family: 'righteous';
 }
 
 .msg p {
     color: black;
+    font-family: 'merriweather';
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 
 footer {
     background-color: #7DC4D5;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 footer h3 {
@@ -93,23 +122,51 @@ footer a:hover {
     text-decoration: underline;
 }
 
-.home-title {
-    color: #7DC4D5;
+footer .social img {
+    padding-top: 15px;
 }
 
+.home-title {
+    color: #7DC4D5;
+    font-family: 'righteous';
+    font-size: 2em;
+    margin-top: 10px;
+}
+.mountains, #background {
+    margin-top: 100px;
+}
 h4 {
     color: black;
+    font-family: 'merriweather';
+   
+
 }
 
 .logo {
     width: 80px;
 }
 
+#logo_link {
+    padding-top: 5px;
+}
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 
 #hero-image {
     width: 100%
     
+}
+
+.fancy{
+    font-family: 'righteous';
+}
+
+h2 {
+    margin: 0;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
 }
