@@ -1,0 +1,40 @@
+h1 {
+    font-size: 150px;
+    letter-spacing: 8px;
+    text-indent: 20px;
+}
+
+
+.whitetext {
+    text-align: end;
+}
+
+.grey {
+    background-color: grey;
+    width: 500px;
+    height: 500px;
+    grid-column: 2/2;
+    grid-row: 1/1;
+}
+
+.picture {
+    width: 500px;
+    height: 500px;
+    top: 0;
+    
+}
+
+.sweet {
+    text-align: center;
+}
+.cherries {
+    font-size: 80px;
+    color: red;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    border: 2px solid black;
+    grid-template-columns: auto auto;
+}
